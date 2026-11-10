@@ -73,7 +73,6 @@ Run all cells from top to bottom. The notebook reads the data from `data/bank-ad
 - The data only covers customers the bank chose to call.
 - The patterns found are predictive, not causal.
 
-See the full report in [`reports/`](reports/) for details.
 
 ## Author
 
