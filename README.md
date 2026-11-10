@@ -5,9 +5,6 @@
 This project builds and evaluates models that predict whether a bank customer will subscribe to a term deposit after a telephone marketing call. The goal is to help the bank choose which customers to call in future campaigns, so that more subscribers are reached with fewer wasted calls.
 
 ## Dataset
-
-- **Source:** UCI Machine Learning Repository, [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing) (file `bank-additional-full.csv`)
-- **Citation:** Moro, S., Cortez, P. and Rita, P. (2014). A data-driven approach to predict the success of bank telemarketing. *Decision Support Systems*, 62, 22-31.
 - **Size:** 41,188 calls, 20 input features, 1 target
 - **Features:** client data (age, job, marital status, education, default, housing loan, personal loan), current campaign contact (contact type, month, day of week, number of calls), previous campaigns (pdays, previous, poutcome) and economic indicators (employment variation rate, consumer price index, consumer confidence index, 3-month Euribor rate, number of employees)
 - **Target:** `y`, whether the customer subscribed (yes or no). Only 11.3% of calls led to a subscription, so the classes are imbalanced.
