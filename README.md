@@ -1,4 +1,4 @@
-# Bank Marketing: Predicting Term-Deposit Subscription
+# Bank Marketing: Predicting Term Deposit Subscription Analysis
 
 **DSC8307 Data Mining, Modeling and Analytics, Project 1**
 
